@@ -35,6 +35,12 @@ gme205-lab7/
 ├── README.md 
 └── requirements.txt
 
+### Database Information
+
+- Database used: `gisdb`
+- PostgreSQL version: `15.19`
+- PostGIS version: `3.6.2`
+
 #### Part F.1 – Data Path
 
 **1. What responsibility belongs to PostgreSQL/PostGIS in this workflow?**
